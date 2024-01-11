@@ -7,7 +7,7 @@
 #include <BLE2902.h>
 #include <ArduinoJson.h>
 
-#define bleServerName "Cosmin's and Virigil's ESP32"
+#define bleServerName "Cosmin's ESP32"
 bool connected = false;
 #define SERVICE_UUID "cdd6731b-f583-423b-9b16-07bcea65fe61"
 #define CHARACTERISTIC_UUID "5c838202-5944-48e4-9b02-56a351533deb"

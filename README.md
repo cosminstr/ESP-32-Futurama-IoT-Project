@@ -1,3 +1,4 @@
 # ESP-32-Futurama-API-BLE
 
-Program that connects the ESP-32 Microcontroller to a Wi-Fi network after entering the correct credentials and then using its built in BLE (Bluetooth Low Energy) technology to make the device act as a BLE server (and client!) providing various functionalities like scanning for Wi-Fi networks, connecting to a network, retrieving data from a URL and getting detailed information about various FUTURAMA characters from another URL. The aforementioned functionalities are made possible using the mobile app ProiectIA, to which the microcontroller connects using BLE. The exchanged data is in JSON format.
+Connect the ESP-32 Microcontroller to the 'ProiectIA' app from Google Store using its built-in BLE (Bluetooth Low Energy) technology, making the board act both as a server and as a client. Through the app you can now scan and connect to various Wi-Fi networks and retrieve and send data (JSON format) about various FUTURAMA Characters. The code was written using the PlatformIO extension in Visual Studio Code.
+

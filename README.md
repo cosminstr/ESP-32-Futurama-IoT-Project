@@ -6,7 +6,7 @@ Simple program that allows the ESP-32 Microcontroller to connect to 'ProiectIA' 
 
 ## Technologies Used
 
-- ESP-32 Microcontroller's build-in BLE Technology
+- ESP-32 Microcontroller's built-in BLE Technology
 - PlatformIO extension in VSC for the development environment
 
 ## How to Install and Run the Project
